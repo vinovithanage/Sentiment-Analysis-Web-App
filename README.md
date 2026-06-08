@@ -56,7 +56,7 @@ sentiment-analysis-project/
 
 ## Author
 
-**V.T. Thilanka Vinodani**  
+** Thilanka Vinodani**  
 B.Tech (Hons) ICT — General Sir John Kotelawala Defence University  
 
 
